@@ -4,11 +4,11 @@ function somarDividir(a, b, c) {
   return (a + b) / c;
 }
 const resultado = somarDividir(39, 25, 4);
-console.log(resultado); // Output: 6
+console.log(resultado); 
 
 //Arrow function->
 const somarDividir = (a, b, c) => (a + b) / c;
 const resultado = somarDividir(39, 25, 4);
-console.log(resultado); // Output: 6
+console.log(resultado); 
 
 
